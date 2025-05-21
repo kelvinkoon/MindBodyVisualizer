@@ -1,0 +1,2 @@
+MAX_PAGE_SIZE = 99
+SIGNED_IN_STR = "signed_in"
